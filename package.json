@@ -37,7 +37,7 @@
     "ember-data": "1.0.0-beta.16.1",
     "ember-export-application-global": "^1.0.2",
     "express": "^4.8.5",
-    "glob": "5.0.3",
+    "glob": "6.0.0",
     "node-sass": "2.0.1",
     "phantomjs": "1.9.16",
     "requirejs": "^2.1.16"
