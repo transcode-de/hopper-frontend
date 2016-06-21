@@ -44,6 +44,6 @@
     "requirejs": "^2.1.16"
   },
   "dependencies": {
-    "codecov.io": "^0.1.2"
+    "codecov.io": "^0.1.6"
   }
 }
