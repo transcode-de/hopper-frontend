@@ -36,7 +36,7 @@
     "ember-cli-yuidoc": "0.8.1",
     "ember-data": "2.2.1",
     "ember-data-fixture-adapter": "1.13.0",
-    "ember-export-application-global": "^1.0.2",
+    "ember-export-application-global": "^1.1.0",
     "express": "^4.8.5",
     "glob": "6.0.1",
     "node-sass": "3.4.2",
