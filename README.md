@@ -1,5 +1,7 @@
 # Hopper-frontend
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/transcode-de/hopper-frontend.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/transcode-de/hopper-frontend.svg)](https://travis-ci.org/transcode-de/hopper-frontend)
 [![codecov.io](https://img.shields.io/codecov/c/github/transcode-de/hopper-frontend.svg?branch=develop)](http://codecov.io/github/transcode-de/hopper-frontend?branch=develop)
 [![Dependencies](https://david-dm.org/transcode-de/hopper-frontend.svg)](https://david-dm.org/transcode-de/hopper-frontend)
