@@ -40,7 +40,7 @@
     "express": "^4.8.5",
     "glob": "6.0.1",
     "node-sass": "3.4.2",
-    "phantomjs": "1.9.19",
+    "phantomjs": "2.1.7",
     "requirejs": "^2.1.16"
   },
   "dependencies": {
