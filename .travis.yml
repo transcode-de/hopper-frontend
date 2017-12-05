@@ -13,4 +13,4 @@ script:
   - npm test && cat ./lcov.dat | node_modules/.bin/codecov
 notifications:
   slack:
-    secure: CJfvkfxuoXz3w6xGrelRZvgwfzLfhvV94QuSA6pNGhtNYndXr54PBbBa5iQLbJXIXlcJwg0DwHMuKWVkL3+8l2W7UhnI01w5wHZ7r+9+UN8a8Ejldl2LcQwYqBSYIwWiPegoicwSysNjdPLrRj7QhcnWo4jFX7YGFlLAgWlMzjw=
+    secure: LPf7I46nHUSAXtoC/nHWSu+QeqkJSoUMokSXoK/nSRln9Yavw3atcAUZ6nUD0na6UeTIZoG5gLapRQVAvNy3l+tjFRMgnCyeQ0ITbZdMO8DSYUCzTW9iGMu9JPKxH6eoE/0oSDzT604uXqGvvju6YSZEqbIA8SaEo48145ugw0k=
