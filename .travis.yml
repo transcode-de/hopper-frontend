@@ -7,9 +7,8 @@ before_install:
   - npm config set spin false
   - npm install -g npm@^2
 install:
-  - npm install -g bower
   - npm install
-  - bower install
+  - npm run bower -- install
 script:
   - npm test && cat ./lcov.dat | node_modules/.bin/codecov
 notifications:

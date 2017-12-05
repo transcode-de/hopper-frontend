@@ -24,9 +24,8 @@ To install it, just run the following commands:
 * `git clone <repository-url>` this repository
 * change into the new directory
 * `nvm install`
-* `npm install -g ember-cli bower`
 * `npm install`
-* `bower install`
+* `npm run bower -- install`
 
 Use `nvm deactivate` after you are done to restore your `PATH` variable. With `nvm use` you can set it again to run, test or develop the project.
 
