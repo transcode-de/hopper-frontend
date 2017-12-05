@@ -23,6 +23,7 @@
     "bower": "1.8.2",
     "broccoli-asset-rev": "^2.0.2",
     "broccoli-static-compiler": "0.2.2",
+    "codecov.io": "^0.1.2",
     "ember-cli": "1.13.13",
     "ember-cli-app-version": "1.0.0",
     "ember-cli-babel": "^5.0.0",
@@ -44,8 +45,5 @@
     "node-sass": "3.4.2",
     "phantomjs": "1.9.19",
     "requirejs": "^2.1.16"
-  },
-  "dependencies": {
-    "codecov.io": "^0.1.2"
   }
 }
